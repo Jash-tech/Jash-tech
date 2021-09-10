@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am currently working as a System Analyst at Cognizant Solutions. Along with it, I am also doing internship at Fireblaze AI Technology Pvt Ltd.  I come with an extensive experience of working with different technologies including Data Science, Machine Learning , SQL, Tableau and Deep Learning.
+
+### Things I'm good at 
+Domain:  Informativa Powercenter Tools , Machine Learning, Data Science, Data Visualization, Data Preprocessing and Deep Learning.
+
+Languages: Python, SQL.
+
+Libraries & Tools: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn.
+
+Data Analysis: Exploratory Data Analysis, Ensemble Methods, Statistical Foundation, Model Development & Evaluation Metrics.
+
