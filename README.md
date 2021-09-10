@@ -25,3 +25,11 @@ Libraries & Tools: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn.
 
 Data Analysis: Exploratory Data Analysis, Ensemble Methods, Statistical Foundation, Model Development & Evaluation Metrics.
 
+### How to reach me
+
+Mail: jashsuke@gmail.com
+
+Contact No: +91 9011611990
+
+    
+
