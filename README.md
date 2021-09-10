@@ -27,7 +27,9 @@ Data Analysis: Exploratory Data Analysis, Ensemble Methods, Statistical Foundati
 
 ### How to reach me
 
-Mail: jashsuke@gmail.com
+Mail : jashsuke@gmail.com
+
+LinkedIn : https://www.linkedin.com/in/jash-suke-ba97bb135/
 
 Contact No: +91 9011611990
 
