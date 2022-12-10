@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently working as a Senior System Analyst at Cognizant Technology Solutions. Along with it, I am also Data Science Intern at [Fireblaze Technologies](https://fireblaze.in/).  I come with an extensive experience of working with different technologies including Data Science, Machine Learning , SQL, Tableau and Deep Learning.
+I am currently working as a Business Analyst at PolicyBazaar,Gurgaon . Along with it, I am also Data Science Intern at [Fireblaze Technologies](https://fireblaze.in/).  I come with an extensive experience of working with different technologies including Data Science, Machine Learning , SQL, Tableau and Deep Learning.
 
 ### Things I'm good at 
 Domain:  Informativa Powercenter Tools , Machine Learning, Data Science, Data Visualization, Data Preprocessing and Deep Learning.
